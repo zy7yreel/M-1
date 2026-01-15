@@ -7,7 +7,7 @@ I’m a recent graduate with a strong interest in cybersecurity and technology. 
 
 Motivated by a strong passion for cybersecurity, I aim to begin my professional journey as a Tier 1 SOC Analyst, utilizing my computer science foundation to contribute to threat monitoring, incident response, and the continuous improvement of security systems.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5890754" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zypher..png" alt="Your Image Badge" />
 
 
 
