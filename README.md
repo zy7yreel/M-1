@@ -16,3 +16,5 @@ Motivated by a strong passion for cybersecurity, I aim to begin my professional 
 
 ## Projects
 
+## Badge
+<div data-frame-width="150" data-iframe-height="270" data-shared-badge-id="793b72ae-032-483b-935e-ef1f0ac3e687" data-share-badge-host="https://www.credly.com"></div><script>type="text/javascript" async src="//cdn.credlu.com/assets/utilities/embed.js"></script>
